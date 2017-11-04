@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    font-family: Courier New, Courier, monospace;
+    background-color: lightskyblue; 
+}
+#snake{
+    width: 15px; 
+    height: 15px; 
+    background-color: black; 
+    position: absolute; 
+}
